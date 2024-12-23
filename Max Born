@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+
+<!--HTML is designed for those who want to be a front end developer-->
+<!--HTML is easy to learn thanks to no "" and words are only counted in open and closed "<>" -->
+
+<html>
+    <head>
+        <title>Max Born and his life</title>
+    </head>
+
+    <body style="background-color: beige;">
+        <h1 style = "color: blueviolet;">Who is Max Born?</h1>
+    <hr>
+    <p style = "color: #830808">Max Born was a <big><b>famous</big></small> <ins><i>quantum physicists</i></ins> from XX century.</p>
+    <img src = "/image/Max Born.jpg" width = 300 height = 400 title="This is Professor Max Born">
+    <br>
+    <a href = "https://en.wikipedia.org/wiki/Max_Born" target="_blank" title="Wikipedia: Max Born">
+        This website leads you to a featured wikipedia article of Professor Max Born
+
+    </a>
+
+    <hr>
+
+    <h2 style="background-color: blanchedalmond;">His students</h2>
+    <ul>
+        <li><mark>Robert Oppenheimer</mark> (the future creator of atomic bomb)</li>
+        <h3>His Creations</h3>
+            <ul>
+                <span style = "color :blue"><li>Atomic bomb</li>
+                    <li>Born-Oppenheimer approximation</li>
+                    <li>A book on electrodynamic</li></span>
+            </ul>
+        
+        <li>Pascual Jordan (the inventor of Jordan map and zero energy universe)</li>
+    </ul>
+
+    <hr>
+    <h2>His Work</h2>
+
+    <ol type ="I">
+        <li>Born rule for measurement</li>
+        <li>Born-Oppenheimer approximation</li>
+    </ol>
+
+    <hr>
+
+    <div style = "background-color: gold;">
+        <h1>Definitions</h1>
+        <dt>Atomic bomb</dt>
+        <dd>This is a dangerous bomb, perhaps the most dangerous which involve the use of Uranium and chain reaction</dd>
+        <dt>Jordan map</dt>
+        <dd>a map method in QM involves Lie Algebra</dd>
+    </div>
+    
+    </body>
+    
+
+
+
+    
+
+
+
+    
+
+
+
+</html>
